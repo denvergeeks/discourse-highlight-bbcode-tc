@@ -16,7 +16,7 @@ export default {
         toolbar.addButton({
           id: "color_ui_button",
           group: "extras",
-          icon: "paint-brush",
+          icon: "palette",
           perform: e => e.applySurround('[wrap=color color=# bgcolor=#ff8]', '[/wrap]', 'color_ui_default_text')
         });
       });
