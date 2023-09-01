@@ -1,0 +1,9 @@
+{
+  "name": "Fast Highlight",
+  "about_url": "https://github.com/denvergeeks/discourse-tc-fast-highlight",
+  "authors": ["merefield", "denvergeeks"],
+  "component": true,
+  "license": "MIT",
+  "about": "adds a highlighting button to the fast edit popup",
+  "version": 0.1
+}
