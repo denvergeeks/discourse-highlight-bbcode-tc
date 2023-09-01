@@ -17,7 +17,7 @@ export default {
           id: "color_ui_button",
           group: "extras",
           icon: "paint-brush",
-          perform: e => e.applySurround('[wrap=color color=# bgcolor=#]', '[/wrap]', 'color_ui_default_text')
+          perform: e => e.applySurround('[wrap=color color=# bgcolor=#ff8]', '[/wrap]', 'color_ui_default_text')
         });
       });
 
