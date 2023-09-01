@@ -1,4 +1,4 @@
 svg_icons: 
-  default: 'paint-brush'
+  default: 'palette'
   type: 'list'
   list_type: 'compact'
