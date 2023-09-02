@@ -1,9 +1,9 @@
 {
-  "name": "Fast Highlight",
-  "about_url": "https://github.com/denvergeeks/discourse-tc-fast-highlight",
+  "name": "Highlight Composer Button (BBCODE)",
+  "about_url": "https://github.com/denvergeeks/discourse-highlight-bbcode-tc",
   "authors": ["merefield", "johani", "denvergeeks"],
   "component": true,
   "license": "MIT",
-  "about": "adds a highlighting button to the fast edit popup",
+  "about": "Adds a bbcode text highlighting button to the composer",
   "version": 0.1
 }
