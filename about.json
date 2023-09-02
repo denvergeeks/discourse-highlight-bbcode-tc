@@ -1,5 +1,5 @@
 {
-  "name": "Highlight Composer Button (BBCODE)",
+  "name": "Highlighting Composer Button (BBCODE)",
   "about_url": "https://github.com/denvergeeks/discourse-highlight-bbcode-tc",
   "authors": ["merefield", "johani", "denvergeeks"],
   "component": true,
