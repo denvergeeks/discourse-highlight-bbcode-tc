@@ -4,6 +4,6 @@
   "authors": ["merefield", "johani", "denvergeeks"],
   "component": true,
   "license": "MIT",
-  "about": "Adds a bbcode text highlighting button to the composer",
+  "about": "Adds a bbcode text highlighter button to the composer",
   "version": 0.1
 }
