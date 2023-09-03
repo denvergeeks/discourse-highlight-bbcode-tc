@@ -1,9 +1,9 @@
 {
-  "name": "Highlighter Composer Button (BBCODE)",
+  "name": "Text Highlighter and Coloring Composer Button (BBCODE)",
   "about_url": "https://github.com/denvergeeks/discourse-highlight-bbcode-tc",
   "authors": ["merefield", "johani", "denvergeeks"],
   "component": true,
   "license": "MIT",
-  "about": "Adds a bbcode text highlighter button to the composer",
+  "about": "Adds a bbcode text coloring button to the composer toolbar. Also defaults to yellow background highlighter ",
   "version": 0.1
 }
