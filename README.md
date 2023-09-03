@@ -1,4 +1,4 @@
-## Theme Component to highlight and color text in Posts
+## Theme Component to highlight and color selected text in Posts
 
 Based on https://github.com/merefield/discourse-tc-coloured-text
 
@@ -11,4 +11,8 @@ i.e. inserts this bbcode wrapper...
 to output this on the saved page or post...
 
 ![Screenshot 2023-09-03 053252](https://github.com/denvergeeks/discourse-highlight-bbcode-tc/assets/322529/2205cf8a-5436-49f2-bf00-4b8fba933d19)
+
+### If you only want a simple highlighter in the Discourse Composer Toolbar, you can also see my other plugin:
+
+https://github.com/denvergeeks/discourse-highlight-wrap-theme-component
 
