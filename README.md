@@ -1,2 +1,4 @@
-## Theme Component to highlight text in Posts
-Using fast edit
+## Theme Component to highlight and color text in Posts
+
+Based on https://github.com/merefield/discourse-tc-coloured-text
+
