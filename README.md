@@ -6,8 +6,9 @@ Difference is this one defaults to highlighting with a yellow background, but is
 
 i.e. inserts this bbcode wrapper...
 
-```[wrap=color color=# bgcolor=#ff8]wraps this selected text[/wrap]```
+```[wrap=color color=# bgcolor=#ff8]wraps this selected text with a yellow background[/wrap]```
 
 to output this on the saved page or post...
 
-[wrap=color color=# bgcolor=#ff8]wraps this selected text[/wrap]
+![Screenshot 2023-09-03 053252](https://github.com/denvergeeks/discourse-highlight-bbcode-tc/assets/322529/2205cf8a-5436-49f2-bf00-4b8fba933d19)
+
